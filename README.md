@@ -11,8 +11,11 @@ How to run ?
    Run play.py file.
 
 Files/Directories
+
    setting.py: contains game settings and global variables
+   
    snake.py: contains Snake and Square classes
+   
    play.py: contain code for running the project
 
 How the AI works?
