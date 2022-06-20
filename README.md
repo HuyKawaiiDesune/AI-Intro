@@ -1,10 +1,13 @@
 AI plays snake.
 
 How to run ?
+
    Install Python3.
    Install these modules:
+   
       pip install pygame
       pip install matplotlib
+      
    Run play.py file.
 
 Files/Directories
